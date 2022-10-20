@@ -42,7 +42,8 @@ gantt
     section Task 12
     網頁改良優化、完成 :t12 , after t11 , 1w
 ```
-
+---
+### 甘特圖
 ---
 
 ### PERT/CPM圖
