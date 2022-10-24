@@ -45,9 +45,3 @@ gantt
 ---
 ### PERT/CPM圖
 ![PERT/CPM圖](PERT&CPM圖.jpg "PERT_CPM")
-
-
----
-### Figma使用案例動態模擬畫面
-
-[線上訂購學餐網頁Figma](https://www.figma.com/proto/SAM2YY46bmE3JCnuClKv4O/%E9%BB%9E%E9%A4%90%E7%B3%BB%E7%B5%B1?node-id=8%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A9)
