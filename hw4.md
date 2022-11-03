@@ -18,4 +18,8 @@
 
 ![hw4_p3](hw4_p3.JPG "活動圖與循序圖")
 
+---
 
+# UML 類別圖
+
+![UML](UML.jpg "UML")
