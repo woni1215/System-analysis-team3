@@ -44,7 +44,7 @@ gantt
 ```
 ---
 ### PERT/CPM圖
-![PERT/CPM圖](PERT&CPM圖.jpg "PERT_CPM")
+![PERT/CPM圖](pert_CPM.JPG "PERT_CPM")
 
 ### 關鍵路徑
 1->2->5->6->8->9->10->11->12
