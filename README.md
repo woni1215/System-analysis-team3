@@ -40,7 +40,7 @@ gantt
     section Task 11
     使用者測試 :t11 , after t10 , 1w
     section Task 12
-    系統改良優化、完成 :t12 , after t11 , 1w
+    系統改良優化 :t12 , after t11 , 1w
 ```
 ---
 ### PERT/CPM圖
