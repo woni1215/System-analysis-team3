@@ -6,15 +6,15 @@
 ### 非功能性需求
 1. 同時間可容納100人瀏覽及點餐(效能)
 2. 點擊下單後3秒可以成功送出訂單(反應時間)
-3. 網頁簡單易操作(使用性)
+3. 系統簡單易操作(使用性)
 ---
 ### 功能分解圖(FDD)
 ![功能分解圖](FDD.png "功能分解圖")
 ---
 ### 需求分析
 
-一個線上訂購學餐系統的需求分析簡述如下：
-1. 學生可以藉由註冊會員來開始使用線上訂購學餐系統。
+一個學餐訂購系統的需求分析簡述如下：
+1. 學生可以藉由註冊會員來開始使用學餐訂購系統。
 2. 學生可以瀏覽店家選擇想吃的餐點。
 3. 學生下單前可以確認餐點是否正確。
 4. 學生可以選擇想要的付款方式。
@@ -43,4 +43,4 @@
 
 ### Figma使用案例動態模擬畫面
 
-[線上訂購學餐網頁Figma](https://www.figma.com/proto/SAM2YY46bmE3JCnuClKv4O/%E9%BB%9E%E9%A4%90%E7%B3%BB%E7%B5%B1?node-id=8%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A9)
+[學餐訂購系統Figma](https://www.figma.com/proto/SAM2YY46bmE3JCnuClKv4O/%E9%BB%9E%E9%A4%90%E7%B3%BB%E7%B5%B1?node-id=8%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A9)
